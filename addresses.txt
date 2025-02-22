@@ -1,0 +1,1 @@
+// one address per line, this is where you sent the nexus tokens to a certain address
