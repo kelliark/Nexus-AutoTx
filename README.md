@@ -1,4 +1,4 @@
-# NEX Transfer Script  
+# Nexus Token Auto Transfer Script  
 
 A Python script to automate the transfer of NEX tokens to multiple recipient addresses. The script reads addresses from `addresses.txt`, selects a random amount within a user-specified range, and executes blockchain transactions with logging and confirmations.
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Configuration  
 
 ### **1. Set Up Your Environment**  
-Before running the script, configure your private key in line *10*
+Before running the script, configure your private key in *config.py*
 
 ```bash
 PRIVATE_KEY = "PRIVATEKEYADDRESSHERE"
