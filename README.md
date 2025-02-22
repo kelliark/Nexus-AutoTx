@@ -4,7 +4,7 @@ A Python script to automate the transfer of NEX tokens to multiple recipient add
 
 ---
 
-## 📋 Features
+## Features
 
 - Sends NEX tokens to multiple addresses from `addresses.txt`  
 - Allows users to specify a random range for transfer amounts  
@@ -13,6 +13,12 @@ A Python script to automate the transfer of NEX tokens to multiple recipient add
 - User-friendly console output with color indicators   
 
 ---
+
+## Requirements
+1. Nexus Account Private Key [Nexus](https://app.nexus.xyz/)
+2. VPS or RDP (OPTIONAL)
+3. Python 3.10 or Later
+4. Required packages
 
 ## Installation  
 
